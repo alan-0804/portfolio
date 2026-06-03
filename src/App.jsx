@@ -221,9 +221,9 @@ export default function App() {
           <div className="exp-right">
             <div className="exp-meta">
               <span className="exp-date">Aug 2025 – Present</span>
-              <span className="exp-badge">Full-time</span>
+              <span className="exp-badge">Internship</span>
             </div>
-            <h3 className="exp-role">Developer</h3>
+            <h3 className="exp-role">MERN Stack Developer Intern</h3>
             <div className="exp-company">Stackup Learning Hub · Thiruvananthapuram</div>
             <ul className="exp-bullets">
               <li>Developing full-stack web applications using the MERN stack</li>
