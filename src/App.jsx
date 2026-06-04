@@ -18,7 +18,7 @@ const PROJECTS = [
     tech: ['React.js', 'Node.js', 'MongoDB', 'Redux', 'JWT', 'Express.js'],
     color: '#00ff9d',
     status: 'In Progress',
-    github: 'https://github.com/alanjose',
+    github: 'https://github.com/alan-0804',
   },
   {
     name: 'OldaXe',
@@ -27,7 +27,7 @@ const PROJECTS = [
     tech: ['Next.js', 'Node.js', 'CI/CD', 'Docker', 'Cloud'],
     color: '#00c2ff',
     status: 'Completed',
-    github: 'https://github.com/alanjose',
+    github: 'https://github.com/alan-0804',
   },
   {
     name: 'AdWeb',
@@ -36,7 +36,7 @@ const PROJECTS = [
     tech: ['Node.js', 'Express.js', 'MongoDB', 'REST APIs'],
     color: '#ff6b6b',
     status: 'Completed',
-    github: 'https://github.com/alanjose',
+    github: 'https://github.com/alan-0804',
   },
   {
     name: 'E-Commerce App',
@@ -45,7 +45,7 @@ const PROJECTS = [
     tech: ['React.js', 'Node.js', 'MongoDB', 'JWT', 'Express.js'],
     color: '#a78bfa',
     status: 'Completed',
-    github: 'https://github.com/alanjose',
+    github: 'https://github.com/alan-0804',
   },
 ];
 
@@ -326,7 +326,7 @@ export default function App() {
               <span className="contact-icon">🐙</span>
               <div>
                 <div className="contact-label">GitHub</div>
-                <div className="contact-val">github.com/alanjose-0804</div>
+                <div className="contact-val">github.com/alan-0804</div>
               </div>
             </a>
             <a href="tel:+917736336895" className="contact-card">
