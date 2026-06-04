@@ -326,7 +326,7 @@ export default function App() {
               <span className="contact-icon">🐙</span>
               <div>
                 <div className="contact-label">GitHub</div>
-                <div className="contact-val">github.com/alanjose</div>
+                <div className="contact-val">github.com/alanjose-0804</div>
               </div>
             </a>
             <a href="tel:+917736336895" className="contact-card">
