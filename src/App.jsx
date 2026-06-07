@@ -322,7 +322,7 @@ export default function App() {
                 <div className="contact-val">linkedin.com/in/alanjose-3b9946369</div>
               </div>
             </a>
-            <a href="https://github.com/alanjose-0804" target="_blank" rel="noopener noreferrer" className="contact-card">
+            <a href="https://github.com/alan-0804" target="_blank" rel="noopener noreferrer" className="contact-card">
               <span className="contact-icon">🐙</span>
               <div>
                 <div className="contact-label">GitHub</div>
