@@ -221,7 +221,7 @@ export default function App() {
           </div>
           <div className="exp-right">
             <div className="exp-meta">
-              <span className="exp-date">Aug 2025 – Present</span>
+              <span className="exp-date">Aug 2025 – june 2026</span>
               <span className="exp-badge">Internship</span>
             </div>
             <h3 className="exp-role">MERN Stack Developer Intern</h3>
