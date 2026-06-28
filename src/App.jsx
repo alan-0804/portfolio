@@ -273,6 +273,7 @@ export default function App() {
               <a href={p.github} target="_blank" rel="noopener noreferrer" className="project-link">
                 View on GitHub →
               </a>
+              <a href={p.link} target="_blank" rel="noopener noreferrer " className='project-link'>link to the app</a>
             </div>
           ))}
         </div>
