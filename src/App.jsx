@@ -12,13 +12,14 @@ const SKILLS = {
 
 const PROJECTS = [
   {
-    name: 'SmartStock',
+    name: 'ShopWala',
     tag: 'B2B Platform',
     desc: 'A full B2B inventory & order management platform connecting shopkeepers and distributors. Features role-based JWT auth, Redux cart, real-time price comparison, and grouped order management.',
     tech: ['React.js', 'Node.js', 'MongoDB', 'Redux', 'JWT', 'Express.js'],
     color: '#00ff9d',
-    status: 'In Progress',
+    status: 'Completed',
     github: 'https://github.com/alan-0804',
+    link   :'https://shopwala.vercel.com',
   },
   {
     name: 'OldaXe',
