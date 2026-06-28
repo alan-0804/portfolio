@@ -19,7 +19,7 @@ const PROJECTS = [
     color: '#00ff9d',
     status: 'Completed',
     github: 'https://github.com/alan-0804',
-    link   :'https://shopwala.vercel.com',
+    link   :'https://shopwala.vercel.app',
   },
   {
     name: 'OldaXe',
